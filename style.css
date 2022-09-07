@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+}
+
+.cabecalho{
+  background: pink;
+  padding: 110px;
+}
+
+.logoP {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.menu ul{
+  width: 100%;
+  right:-2%;
+  top:0%;
+  height: 50px;
+}
+
+.menu ul li{
+  display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 30px;
+ }
+.menu ul li a{
+  color: #000000;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: Candara, Cambria;
+}
+.menu ul li a:hover{
+  color: goldenrod;
+}
+
+.principal{
+  font-family: Candara;
+  margin-top: 100px;
+  width: 70%;
+  background: #FFF3;
+}
+
+.titulopole{
+  font-size: 67px;
+  width: 35%;
+  text-align: center;
+  right: 65px;
+  text-transform: uppercase;
+}
+
+.textoprincipal{
+  font-size: 18px;
+  text-align: center;
+  width: 60%;
+  position: absolute;
+  right:65px;
+  top:435px
+}
+
+footer{
+  background: pink;
+  left: 0;
+  right:0;
+  margin: auto;
+  text-align: center;
+}
+
+.contatos ul li{
+  display: inline-block;
+  padding: 10px;
+}
+

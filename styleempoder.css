@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  background-color: pink;
+}
+header{
+  background: #FFFFFF;
+  padding-top: 40px;
+}
+
+h1{
+  text-transform: uppercase;
+  color: red;
+  text-align: center;
+  font-family: Candara;
+}
+
+.principalemp{
+  display: flex;
+  align-items: center;
+  width: 80%;
+}
+
+.textoempo{
+  font-family: Candara;
+  font-size: 22px;
+  font-style: bold;
+  width:30%;
+  left:0;
+  right:0;
+  margin: auto;
+}
+
+img{
+  height:700px;
+  width: 40%;
+  position: absolute;
+  right: 20px;
+  top:100px;
+}
+
+
+
